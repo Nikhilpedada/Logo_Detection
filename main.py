@@ -60,7 +60,7 @@ def save_annotations(frames, output_path):
 def save_detections_to_json(timestamps, results, model, json_path):
     detections = {
         "Pepsi_pts": [],
-        "CocaCola_pts": []
+        "CocoCola_pts": []
     }
     for timestamp, result in zip(timestamps, results):
         if result.boxes is not None:
@@ -82,7 +82,7 @@ def save_detections_to_json(timestamps, results, model, json_path):
                 if class_name == "Pepsi":
                     detections["Pepsi_pts"].append(detection_info)
                 elif class_name == "CocaCola":
-                    detections["CocaCola_pts"].append(detection_info)
+                    detections["CocoCola_pts"].append(detection_info)
 
     with open(json_path, 'w') as f:
         json.dump(detections, f, indent=4)
