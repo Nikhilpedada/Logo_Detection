@@ -36,7 +36,7 @@ The path should be configured in the script where the video path is set (replace
 ```python
 video_path = '<path_to_video>'
 ```
-<!-- ![Screenshot from 2024-07-17 18-03-15](https://github.com/user-attachments/assets/5442dd71-af36-4abb-a5bb-1cb3f5bbed6e) -->
+<!-- !https://github.com/Nikhilpedada/Logo_Detection/blob/0f06541f8b63ad826f2b2c2475feb4598787252e/Screenshot%20(13).png -->
 
 ### Running Model
 
