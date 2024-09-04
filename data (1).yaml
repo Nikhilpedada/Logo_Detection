@@ -8,9 +8,4 @@ val: /content/gdrive/MyDrive/Dataset/valid
 nc: 2
 names: ['coca-cola', 'pepsi']
 
-# roboflow:
-#   workspace: advait-dongre
-#   project: pepsi-cocacola-images
-#   version: 1
-#   license: CC BY 4.0
-#   url: https://universe.roboflow.com/advait-dongre/pepsi-cocacola-images/dataset/1
+
