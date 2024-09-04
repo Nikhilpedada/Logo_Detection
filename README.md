@@ -48,7 +48,7 @@ python main.py
 ## Output 
 
 After running the command, the model will process the input video and generate the following output files in the `Output` folder:
-- The output JSON file (`output.json`) will contain the timestamps of detected Pepsi and CocaCola logos.
+- The output JSON file (`results.json`) will contain the timestamps of detected Pepsi and CocaCola logos.
 
 ### 1. **Annotated Video**: 
 A video file with detected logos annotated.
