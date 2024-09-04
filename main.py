@@ -92,7 +92,7 @@ output_dir = '/content/gdrive/MyDrive/'
 os.makedirs(output_dir, exist_ok=True)
 
 # Update paths
-video_path = '/content/gdrive/MyDrive/contentMake_Amazing_Cups_Using_Soda_Cans_and_earn_money.mp4' #Enter thr vedio path
+video_path = '/content/gdrive/MyDrive/demo_vedio.mp4' #Enter thr vedio path
 model_path = '/content/gdrive/MyDrive/Dataset/best.pt'            #Enter the model path
 output_video_path = os.path.join(output_dir, 'annotated_video.mp4')
 output_json_path = os.path.join(output_dir, 'results.json')
