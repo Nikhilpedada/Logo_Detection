@@ -58,7 +58,8 @@ A video file with detected logos annotated.
 ### 2. **JSON File**: 
 A file containing the timestamp of each logo detection along with their respective height, width, and distance from the center of the frame in pixels.
 <!-- results.json-->
-
+##Demo
+<!--https://github.com/Nikhilpedada/Logo_Detection/blob/a550f359f48ef7d716f95d97c967522a45764d89/output_image.jpg-->
 ## Acknowledgements
 
  - [Ultralytics/YoloV8](https://github.com/ultralytics/ultralytics)
