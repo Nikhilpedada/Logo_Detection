@@ -54,7 +54,7 @@ After running the command, the model will process the input video and generate t
 A video file with detected logos annotated.
 
 #### Demo
-   <!-- This is the link for the demo videos : https://drive.google.com/drive/folders/1Fv7yraqVynzzHx4NmnAy-0uqAMt7R2js?usp=drive_link -->
+   <!-- This is the link for the demo video :[ https://drive.google.com/drive/folders/1Fv7yraqVynzzHx4NmnAy-0uqAMt7R2js?usp=drive_link ](https://drive.google.com/file/d/15ouOTf5vbw7jB2W3ffGtIQgZXPpViLi9/view?usp=drive_link)-->
 ### 2. **JSON File**: 
 A file containing the timestamp of each logo detection along with their respective height, width, and distance from the center of the frame in pixels.
 
