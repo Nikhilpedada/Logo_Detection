@@ -57,9 +57,7 @@ A video file with detected logos annotated.
    <!-- This is the link for the demo video :[ https://drive.google.com/drive/folders/1Fv7yraqVynzzHx4NmnAy-0uqAMt7R2js?usp=drive_link ](https://drive.google.com/file/d/15ouOTf5vbw7jB2W3ffGtIQgZXPpViLi9/view?usp=drive_link)-->
 ### 2. **JSON File**: 
 A file containing the timestamp of each logo detection along with their respective height, width, and distance from the center of the frame in pixels.
-
-#### Demo
-<!-- ![Screenshot from 2024-07-17 17-37-16](https://github.com/user-attachments/assets/75997966-7daa-4677-8b1d-53efff548c94) -->
+<!-- results.json-->
 
 ## Acknowledgements
 
